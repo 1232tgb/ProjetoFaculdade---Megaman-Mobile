@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 44fbad5bb14e2a840a07c20c32873a43
+timeCreated: 1495819733
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sword attack standing_0
+    21300002: Sword attack standing_1
+    21300004: Sword attack standing_2
+    21300006: Sword attack standing_3
+    21300008: Sword attack standing_4
+    21300010: Sword attack standing_5
+    21300012: Sword attack standing_6
+    21300014: Sword attack standing_7
+    21300016: Sword attack standing_8
+    21300018: Sword attack standing_9
+    21300020: Sword attack standing_10
+    21300022: Sword attack standing_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword attack standing_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 672
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.43896988, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 672
+        width: 37
+        height: 43
+      alignment: 9
+      pivot: {x: 0.41422808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 672
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 672
+        width: 53
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 672
+        width: 50
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6322315, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 671
+        width: 62
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3421754, y: 0.01944598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 673
+        width: 82
+        height: 52
+      alignment: 9
+      pivot: {x: 0.2935899, y: 0.0050858716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 673
+        width: 80
+        height: 42
+      alignment: 9
+      pivot: {x: 0.32479325, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 672
+        width: 80
+        height: 35
+      alignment: 9
+      pivot: {x: 0.31157, y: 0.0075561525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 673
+        width: 75
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3272176, y: -0.0075561525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 673
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4316038, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sword attack standing_11
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 673
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.732545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
